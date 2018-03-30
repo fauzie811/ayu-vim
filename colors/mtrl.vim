@@ -14,13 +14,13 @@ let g:colors_name = "mtrl"
 
 let s:palette = {}
 
-let s:palette.bg        = {'dark': "#0F1419",  'light': "#FAFAFA"}
+let s:palette.bg        = {'dark': "#455A64",  'light': "#FAFAFA"}
 
-let s:palette.comment   = {'dark': "#5C6773",  'light': "#ABB0B6"}
-let s:palette.markup    = {'dark': "#F07178",  'light': "#F07178"}
-let s:palette.constant  = {'dark': "#FFEE99",  'light': "#A37ACC"}
-let s:palette.operator  = {'dark': "#E7C547",  'light': "#E7C547"}
-let s:palette.tag       = {'dark': "#36A3D9",  'light': "#36A3D9"}
+let s:palette.comment   = {'dark': "#607D8B",  'light': "#ABB0B6"}
+let s:palette.markup    = {'dark': "#FF8A80",  'light': "#F07178"}
+let s:palette.constant  = {'dark': "#FFFF8D",  'light': "#A37ACC"}
+let s:palette.operator  = {'dark': "#FFD740",  'light': "#E7C547"}
+let s:palette.tag       = {'dark': "#448AFF",  'light': "#36A3D9"}
 let s:palette.regexp    = {'dark': "#95E6CB",  'light': "#4CBF99"}
 let s:palette.string    = {'dark': "#B8CC52",  'light': "#86B300"}
 let s:palette.function  = {'dark': "#FFB454",  'light': "#F29718"}
