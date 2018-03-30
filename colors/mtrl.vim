@@ -34,7 +34,7 @@ let s:palette.guide     = {'dark': "#455A64",  'light': "#D9D8D7"}
 let s:palette.line      = {'dark': "#263238",  'light': "#F3F3F3"}
 let s:palette.selection = {'dark': "#546E7A",  'light': "#F0EEE4"}
 let s:palette.fg        = {'dark': "#E3F2FD",  'light': "#5C6773"}
-let s:palette.fg_idle   = {'dark': "#1A237E",  'light': "#828C99"}
+let s:palette.fg_idle   = {'dark': "#1565C0",  'light': "#828C99"}
 
 "}}}
 
