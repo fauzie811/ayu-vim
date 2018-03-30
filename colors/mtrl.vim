@@ -14,27 +14,27 @@ let g:colors_name = "mtrl"
 
 let s:palette = {}
 
-let s:palette.bg        = {'dark': "#455A64",  'light': "#FAFAFA"}
+let s:palette.bg        = {'dark': "#263238",  'light': "#FAFAFA"}
 
 let s:palette.comment   = {'dark': "#607D8B",  'light': "#ABB0B6"}
 let s:palette.markup    = {'dark': "#FF8A80",  'light': "#F07178"}
 let s:palette.constant  = {'dark': "#FFFF8D",  'light': "#A37ACC"}
 let s:palette.operator  = {'dark': "#FFD740",  'light': "#E7C547"}
 let s:palette.tag       = {'dark': "#448AFF",  'light': "#36A3D9"}
-let s:palette.regexp    = {'dark': "#95E6CB",  'light': "#4CBF99"}
-let s:palette.string    = {'dark': "#B8CC52",  'light': "#86B300"}
-let s:palette.function  = {'dark': "#FFB454",  'light': "#F29718"}
-let s:palette.special   = {'dark': "#E6B673",  'light': "#E6B673"}
-let s:palette.keyword   = {'dark': "#FF7733",  'light': "#FF7733"}
+let s:palette.regexp    = {'dark': "#64FFDA",  'light': "#4CBF99"}
+let s:palette.string    = {'dark': "#8BC34A",  'light': "#86B300"}
+let s:palette.function  = {'dark': "#FFC400",  'light': "#F29718"}
+let s:palette.special   = {'dark': "#FFB74D",  'light': "#E6B673"}
+let s:palette.keyword   = {'dark': "#F57C00",  'light': "#FF7733"}
 
-let s:palette.error     = {'dark': "#FF3333",  'light': "#FF3333"}
-let s:palette.accent    = {'dark': "#F29718",  'light': "#FF6A00"}
-let s:palette.panel     = {'dark': "#14191F",  'light': "#FFFFFF"}
-let s:palette.guide     = {'dark': "#2D3640",  'light': "#D9D8D7"}
-let s:palette.line      = {'dark': "#151A1E",  'light': "#F3F3F3"}
-let s:palette.selection = {'dark': "#253340",  'light': "#F0EEE4"}
-let s:palette.fg        = {'dark': "#E6E1CF",  'light': "#5C6773"}
-let s:palette.fg_idle   = {'dark': "#3E4B59",  'light': "#828C99"}
+let s:palette.error     = {'dark': "#F44336",  'light': "#FF3333"}
+let s:palette.accent    = {'dark': "#FFA000",  'light': "#FF6A00"}
+let s:palette.panel     = {'dark': "#37474F",  'light': "#FFFFFF"}
+let s:palette.guide     = {'dark': "#455A64",  'light': "#D9D8D7"}
+let s:palette.line      = {'dark': "#263238",  'light': "#F3F3F3"}
+let s:palette.selection = {'dark': "#546E7A",  'light': "#F0EEE4"}
+let s:palette.fg        = {'dark': "#E3F2FD",  'light': "#5C6773"}
+let s:palette.fg_idle   = {'dark': "#1A237E",  'light': "#828C99"}
 
 "}}}
 
